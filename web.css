@@ -1,0 +1,65 @@
+.main-body{
+   
+   height:100vh;
+  margin-top:0px;
+  background-image:url(background2.png) ;
+background-attachment:fixed;
+background-position: center;  
+background-color: #cccccc;
+width:100%;
+margin:0%;
+ 
+   
+    
+}
+body{
+    color:white;
+    background-color:black;
+}
+
+.main-text{
+color:white;
+text-align: center;
+align-items:center;
+font-size:96px;
+font-family: serif;
+font-weight:700;
+margin-top: 0px;
+padding-top: 200px;
+user-select:none;
+
+}
+.enjoy{
+    padding-top:30px;
+    margin-left:780px;
+    margin-top:0px;
+    margin-bottom:0px; 
+    margin-bottom:500px;
+}
+.professional-design{
+   align-items: center;
+    color:white;
+    font-size:30px;
+    width:30vh;
+    margin-left:81vh;
+   text-align: center;
+    background-color:rgb(51, 32, 156);
+  padding-bottom: 20px;
+    border-radius:10px;
+    user-select:none;
+    padding-top: 20px;
+}
+.about.me{
+
+
+    
+    font-size:40px;
+}
+
+
+    
+
+
+
+      
+ 
